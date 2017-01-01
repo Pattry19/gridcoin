@@ -1,0 +1,2 @@
+# gridcoin
+wallet
